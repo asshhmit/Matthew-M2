@@ -1,5 +1,1 @@
-from load_api import get_api
 
-groq_api = get_api("groq_api")
-
-print(groq_api)
