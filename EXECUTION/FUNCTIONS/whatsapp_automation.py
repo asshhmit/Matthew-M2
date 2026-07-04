@@ -47,23 +47,12 @@ You are a strict intent classifier for a voice assistant.
 -no greetings
 
 Contacts:
--myself
--aryan
--arpita
--maitri
--saachi/sanchi
--stuti
--navya
--naitik
--shuban/shubam
--manish sir
--shakir sir
+
 -mummy
 -papa
 -didi
 -chacha
 -chachi
--ayansh/arav
 """
 from load_api import get_api
 
@@ -91,67 +80,7 @@ while True:
     print(understanding)
     if understanding:
 
-        if "naitik" in understanding:
-            print("sending message to naytik")
-            speak("what should i say to naitik sir ?")
-            message = recognize_speech()
-            
-            phone_number = "+9199114 36654"
-            pywhatkit.sendwhatmsg_instantly(
-                phone_number,
-                message,
-                wait_time=22,      # Wait for WhatsApp Web to load
-                #tab_close=True,    # Close the tab after sending
-                #close_time=3
-            )
-            speak("message sent succesfully.")
-            sys.exit()
 
-        elif "navya" in understanding:
-            print("sending message to navya")
-            speak("what should i say to navya sir ?")
-            message = recognize_speech()
-            
-            phone_number = "+918091056792"
-            pywhatkit.sendwhatmsg_instantly(
-                phone_number,
-                message,
-                wait_time=22,      # Wait for WhatsApp Web to load
-                #tab_close=True,    # Close the tab after sending
-                #close_time=3
-            )
-            speak("message sent succesfully.")
-            sys.exit()
-        elif "aryan" in understanding:
-            print("sending message to aryan")
-            speak("what should i say to aryan sir ?")
-            message = recognize_speech()
-            
-            phone_number = "+919205008085"
-            pywhatkit.sendwhatmsg_instantly(
-                phone_number,
-                message,
-                wait_time=22,      # Wait for WhatsApp Web to load
-                #tab_close=True,    # Close the tab after sending
-                #close_time=3
-            )
-            speak("message sent succesfully.")
-            sys.exit()
-        elif "stuti" in understanding:
-            print("sending message to stuti")
-            speak("what should i say to stuti sir ?")
-            message = recognize_speech()
-            
-            phone_number = "+919015832487"
-            pywhatkit.sendwhatmsg_instantly(
-                phone_number,
-                message,
-                wait_time=22,      # Wait for WhatsApp Web to load
-                #tab_close=True,    # Close the tab after sending
-                #close_time=3
-            )
-            speak("message sent succesfully.")
-            sys.exit()
         elif "papa" in understanding:
             speak("what should i say to your father, sir ?")
             message = recognize_speech()
@@ -211,21 +140,7 @@ while True:
             sys.exit()
 
 
-        elif "new_number" in understanding:
-            speak("what should i say to , sir ?")
-            message = recognize_speech()
-            
-            
-            phone_number = "+918091056792"
-            pywhatkit.sendwhatmsg_instantly(
-                phone_number,
-                message,
-                wait_time=25,      # Wait for WhatsApp Web to load
-                #tab_close=True,    # Close the tab after sending
-                #close_time=3
-            )
-            speak("message sent succesfully.")
-            sys.exit()
+
         else:
             print("not able to understand the reciever's name ")
             
