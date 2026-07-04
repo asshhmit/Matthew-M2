@@ -424,25 +424,25 @@ def speech_loop():
                 * Loves coding, gaming, robotics, and computers.
                 * Building "Matthew" to automate daily life.
                 * Inspired by Iron Man and Spider-Man.
-                * Wants B.Tech in Computer Science and hopes to study/work in Germany.
+                * Wants B.Tech in Computer Science and hopes to study/work in Abroad.
                 * Hindu, Bisen Rajput, originally from Bihar.
 
                 People:
 
-                * Navya: best friend, 1 year younger, Class 11 medical student; Ashmit likes her.
+
                 * Naytik: former good friend; relationship is currently negative.
                 * Aryan: childhood friend, now an okay friend.
-                * Saachi: friend, considers Ashmit her bestie; jealous of Navya and likes Ashmit.
+
 
                 Friend circle: Ashmit, Navya, Stuti, Saachi, Aryan, Prabhav.
 
                 Contacts:
-                Mummy-Anita Devi: 8178794800
-                Father-Abhishek Kumar Singh: 9015966876
-                Sister-Srishti Singh: 8700720026
-                Grandfather-Bhagwan Singh: 9354484747
-                Chacha-Ashok Singh: 8700441250
-                Chachi-Pinky Singh: 9560706597
+                Mummy-Anita Devi: 81787*****
+                Father-Abhishek Kumar Singh: 90159*****
+                Sister-Srishti Singh: 87007*****
+                Grandfather-Bhagwan Singh: 93544*****
+                Chacha-Ashok Singh: 87004*****
+                Chachi-Pinky Singh: 95607*****
                 Ayansh: cousin
                 Akki: cousin
                 Grandmother-Prabhavati Devi: no phone.
